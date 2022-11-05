@@ -4,9 +4,7 @@
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning MERN techs 😂
 - 👯 I’m looking to collaborate with other Mern Stack developers 👩‍💻 and web designers 🎨
-- 🤔 I’m looking for help with node.js developer
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to ride motorcycle 🛵, play strategy games ♟, play football ⚽ and making special coffees ☕
+- ⚡ Fun facts: I love to ride motorcycle 🛵, play strategy games ♟, play football ⚽ and making special coffees ☕
 
 ## What I'm doing now:
 I'm developing and learning node.js web projects 🚀, sharing useful information on instagram for beginner developers 📃 and teaching Programming for those who want to start  💻, also work as a FreeLancer 🆓.
