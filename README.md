@@ -16,17 +16,6 @@ I'm developing and learning Custon AI projects with Cursor, N8N, Make, Airtable,
 [<img align="left" height="24" width="24" src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker-thumbnail.png" />][HackerRank]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
-
-<br />
-
-
-[instagram]: https://www.instagram.com/berkehalilbayraktar/
-[linkedin]: https://www.linkedin.com/in/berkehalilbayraktar/
-[gmail]: mailto:berke@arcaedia.com
-<br />
-
-<br />
-<br />
 <br />
 
 ### GitHub Analytics 📊
