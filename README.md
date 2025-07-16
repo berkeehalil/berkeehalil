@@ -9,12 +9,6 @@
 ## What I'm doing now:
 I'm developing and learning Custon AI projects with Cursor, N8N, Make, Airtable, LLM APIs 🚀, sharing useful information on LinkedIn and Youtube for developers and founders 📃 
 
-### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker-thumbnail.png" />][HackerRank]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 ### GitHub Analytics 📊
 
