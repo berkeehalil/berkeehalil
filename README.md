@@ -1,13 +1,13 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## Hi! 👨‍🎓, I'm a Full Stack Web Developer 🚀and Writer ✍!
-- 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning MERN techs 😂
+## Hi! 👨‍🎓, I'm founder of Arcaedia 🚀 and KAM ✍!
+- 🔭 I’m currently working on a large and special AI application and LLMs .
+- 🌱 I’m currently learning AI techs 😂
 - 👯 I’m looking to collaborate with other Mern Stack developers 👩‍💻 and web designers 🎨
-- ⚡ Fun facts: I love to ride motorcycle 🛵, play strategy games ♟, play football ⚽ and making special coffees ☕
+- ⚡ Fun facts: I love to ride motorcycle 🛵, play strategy games ♟, play football ⚽
 
 ## What I'm doing now:
-I'm developing and learning node.js web projects 🚀, sharing useful information on instagram for beginner developers 📃 and teaching Programming for those who want to start  💻, also work as a FreeLancer 🆓.
+I'm developing and learning Custon AI projects with Cursor, N8N, Make, Airtable, LLM APIs 🚀, sharing useful information on LinkedIn and Youtube for developers and founders 📃 
 
 ### 📩 Connect with me:
 
@@ -20,29 +20,10 @@ I'm developing and learning node.js web projects 🚀, sharing useful informatio
 <br />
 
 
-[instagram]: https://www.instagram.com/berkeehalil/
-[HackerRank]: https://www.hackerrank.com/bayraktarbh
-[linkedin]: hhttps://www.linkedin.com/in/berkeehalil/
-[gmail]: mailto:bayraktarbh@gmail.com
+[instagram]: https://www.instagram.com/berkehalilbayraktar/
+[linkedin]: https://www.linkedin.com/in/berkehalilbayraktar/
+[gmail]: mailto:berke@arcaedia.com
 <br />
-
-### 🔧 Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />][JavaScript]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" />][nodeJs]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />][react]
-
-<br />
-
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/berkeehalil
-[JavaScript]: https://www.javascript.com
-[nodeJs]: nodejs.org/en
-[react]: https://reactjs.org
 
 <br />
 <br />
